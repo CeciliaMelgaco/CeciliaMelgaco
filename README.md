@@ -1,16 +1,28 @@
-## Hi there 👋
+<img width=100%  src="https://github.com/httpscecili/httpscecili/blob/main/tumblr_static_filename_640_v2.gif"
+/>
+<br>
+<br> 
 
-<!--
-**CeciliaMelgaco/CeciliaMelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=CeciliaMelgaco&theme=rose&hide_border=true)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center"> 
+<a href="https://www.instagram.com/iceci.melgaco/" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/httpscecili/httpscecili/blob/main/assets/instagram-brands-solid.svg">
+</a>
+
+
+<a href="https://www.behance.net/cecliapereira4">
+<img align="center"  height="80" width="80" src="https://github.com/httpscecili/httpscecili/blob/main/assets/behance-brands-solid.svg">
+</a>
+
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ffffff&section=footer"/>
